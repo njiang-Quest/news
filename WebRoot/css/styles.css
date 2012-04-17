@@ -1,0 +1,42 @@
+.selected_label {
+	BACKGROUND-COLOR: #c3d9ff
+}
+.left_labels {
+	WIDTH: 100px; HEIGHT: 500px
+}
+.content_links {
+	BORDER-RIGHT: #c3d9ff 0px solid; BORDER-TOP: #c3d9ff 20px solid; BORDER-LEFT: #c3d9ff 10px solid; WIDTH: 500px; COLOR: red; BORDER-BOTTOM: #c3d9ff 20px solid; HEIGHT: 500px
+}
+.labels_table TR TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; WIDTH: 70px; PADDING-TOP: 3px
+}
+.input_table TR TD {
+	FONT-SIZE: 14px
+}
+A {
+	COLOR: blue
+}
+.banner {
+	FONT-SIZE: 30px; MARGIN: 5px 0px
+}
+.tag1 {
+	FONT-SIZE: 12px
+}
+.tag2 {
+	FONT-SIZE: 15px
+}
+.tag3 {
+	FONT-SIZE: 18px
+}
+.tag4 {
+	FONT-WEIGHT: 500; FONT-SIZE: 21px
+}
+.tag5 {
+	FONT-WEIGHT: 600; FONT-SIZE: 24px
+}
+.tag6 {
+	FONT-WEIGHT: 700; FONT-SIZE: 27px
+}
+.tag7 {
+	FONT-WEIGHT: 800; FONT-SIZE: 30px
+}
